@@ -1,16 +1,16 @@
 ## Google Drive Upload
-<hr>
+
 Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive
 account without leaving their system.
 
 ## Appendix
-<hr>
+
 We always wants to upload our best memories, important documents onto the Google Drive. Opening it and then uploading 
 becomes the tedious task. This can be solved using this application. Open the application, select the file/folder, 
 give the folder name and upload right from your system without even opening your browser.
 
 ## Run Locally
-<hr>
+
 
 <li>Clone the repo</li>
 
@@ -29,7 +29,7 @@ python main.py
 
 
 ## Usage
-<hr>
+
 
 ### Development
 
@@ -65,7 +65,7 @@ issue <a href='https://github.com/Sparab16/Google-Drive-Upload/issues' target="_
 Please include the sample queries and their corresponding results.
 
 ## License
-<hr>
+
 MIT License
 
 Copyright (c) [2021] [Shreyas Jaywant Parab]
